@@ -13,4 +13,4 @@ proj6-Gcal<br>
 proj7-FreeTimes<br>
 -Added fetch_free_times function to calculate free times from busy times <br>
 
-NOTE: I had to delete my original repo due to my inability to push through my machine, so previous comments have been lost
+<b>NOTE</b>: I had to delete my original repo due to my inability to push through my machine, so previous comments have been lost
