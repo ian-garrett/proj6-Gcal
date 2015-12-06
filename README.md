@@ -3,7 +3,7 @@
 Snarf appointment data from a selection of a user's Google calendars 
 
 ## Details
-Here is the working link: http://ix.cs.uoregon.edu:6048
+Here is the working link: http://ix.cs.uoregon.edu:6048 (does not work because project 8 is now running on this port)
 
 What I did:<br>
 proj6-Gcal<br>
